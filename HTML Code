@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Academics</title>
+	<link rel="stylesheet"
+type="text/css" href="stylesheet.css" />
+</head>
+
+<body>
+	<h1>Matt Steimle's Site</h1>
+	<h3>Welcome!</h3>
+	<h5>I am Matt Steimle. I row at Oakland Strokes.</h5>
+
+	<img src = "piedmontHigh.jpg">
+</body>
+</html>

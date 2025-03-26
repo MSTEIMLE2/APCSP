@@ -1,0 +1,29 @@
+            .heading {
+                padding: 60px;
+                font-size: 25px;
+                text-align: center;
+                background: #eeeeee;
+                /*suggestion from GPT makes the corners rounded the larger the value the more rounded the corners */
+                border-radius: 32px;
+            }
+           
+ 
+            .section {
+               background-color: #f39c12;
+               padding: 20px;
+               margin-top: 30px;
+               border-radius: 32px;
+               img {
+    border-radius: 32px;
+}
+            }
+            .book {
+               background-color: #9b59b6;
+               padding: 20px;
+               margin-top: 30px;
+               border-radius: 32px;
+               img {
+                /*suggestion from GPT makes things have a shadow so they look 3d 1: how far right the shadow goes 2: how far down 3: how much blur the shadow has 4: color and transparency*/
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+            }
+
